@@ -1,0 +1,14 @@
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\bin\Debug\netcoreapp2.1\Bookshelf.deps.json
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\bin\Debug\netcoreapp2.1\Bookshelf.runtimeconfig.json
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\bin\Debug\netcoreapp2.1\Bookshelf.runtimeconfig.dev.json
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\bin\Debug\netcoreapp2.1\Bookshelf.dll
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.RazorAssemblyInfo.cache
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.RazorAssemblyInfo.cs
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.AssemblyInfoInputs.cache
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.AssemblyInfo.cs
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.RazorTargetAssemblyInfo.cache
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\bin\Debug\netcoreapp2.1\Bookshelf.pdb
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.dll
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.pdb
+C:\Users\Ruslan\source\repos\Bookshelf\Bookshelf\obj\Debug\netcoreapp2.1\Bookshelf.csprojAssemblyReference.cache
